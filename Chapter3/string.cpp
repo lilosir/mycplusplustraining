@@ -63,7 +63,7 @@ int main() {
 	// 	c = toupper(c);
 	// }
 	for(int i=0; i<str.size(); ++i) {
-		str[i] = toupper(str[i]);
+		str[i] = toupper(str[i]); //it already returns a reference to the character at the position
 	}
 
 	cout << str << endl;
