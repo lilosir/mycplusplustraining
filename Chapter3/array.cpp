@@ -12,7 +12,7 @@ int main() {
   // const unsigned len = 40;
   // string arr[len] {"a", "b"};
 
-  // char carr[6] = "hello"; //should leave an null at the end, so the real length will be 5+1
+  // char carr[6] = "hello"; 
   // cout << sizeof(carr) << endl;
 
   // char carr2 = carr; //cannot initialize one array with another
